@@ -3,7 +3,7 @@
 						<a href="#contact" class="button button-big">Get in touch with me</a>
 					</footer>
 				</article>
-			</div>
+			</div> 
 
 		<!-- Contact -->
 			<div class="wrapper wrapper-style4">
