@@ -1,5 +1,5 @@
 <?php get_header();?>
-	<body>
+	<body> 
 
 		<!-- Nav -->
 			<nav id="nav">
